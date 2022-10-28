@@ -1,0 +1,20 @@
+"""
+Ejemplo de operaciones matematicas
+"""
+
+
+
+suma = 1+2
+resta = 2-1
+multiplicacion =3*5
+division=10/4
+ponteciacion=4**2 
+residuo=11%2
+
+
+print(suma)
+print(resta)
+print(multiplicacion)
+print(division)
+print(ponteciacion)
+print(residuo)
