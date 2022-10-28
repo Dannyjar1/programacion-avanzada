@@ -10,6 +10,8 @@ float = 5.4
 print(type(float))
 
 
+complejo = j5
+print(type(complejo))
 
 
 
