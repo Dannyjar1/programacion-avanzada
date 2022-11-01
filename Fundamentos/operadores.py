@@ -16,3 +16,6 @@ print(type(complejo))
 
 
 # string 
+
+nombre = "Danny"
+apellido = "Jaramillo"
