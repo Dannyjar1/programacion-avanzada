@@ -10,7 +10,7 @@ float = 5.4
 print(type(float))
 
 
-complejo = j5
+complejo = 5j
 print(type(complejo))
 
 
@@ -19,3 +19,5 @@ print(type(complejo))
 
 nombre = "Danny"
 apellido = "Jaramillo"
+print(type(nombre))
+print(type(apellido))
