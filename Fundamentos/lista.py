@@ -17,5 +17,3 @@ lista.sort()
 print(lista)
 
 
-tupla =("Hola mundo","esto","es","una","tupla")
-print(tupla)
